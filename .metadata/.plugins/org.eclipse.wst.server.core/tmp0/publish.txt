@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Tue Jun 11 07:46:07 IST 2019
+org.eclipse.jst.jee.server\:/binary\:F\:\\Kiran\\Learning\\Java\ FullStack\\spring-mvc-demo\\WebContent\\WEB-INF\\lib\\spring-web-5.1.7.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.1.7.RELEASE-sources.jar
+org.eclipse.jst.jee.server\:/binary\:F\:\\Kiran\\Learning\\Java\ FullStack\\spring-mvc-demo\\WebContent\\WEB-INF\\lib\\spring-web-5.1.7.RELEASE.jar=WEB-INF/lib/spring-web-5.1.7.RELEASE.jar
